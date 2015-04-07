@@ -1,0 +1,3 @@
+[submodule "pre-commit-php"]
+	path = pre-commit-php
+	url = https://github.com/hootsuite/pre-commit-php.git
