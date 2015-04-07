@@ -9,5 +9,5 @@ git submodule foreach git pull
 wd=$PWD
 
 # check PHP
-$wd/git-wordpress-checks/pre-commit-php/pre_commit_hooks/php-cs.sh
+#$wd/git-wordpress-checks/pre-commit-php/pre_commit_hooks/php-cs.sh
 $wd/git-wordpress-checks/pre-commit-php/pre_commit_hooks/php-lint.sh
